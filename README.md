@@ -54,7 +54,7 @@ To build an interactive and insightful dashboard for college management, coverin
 
 **Archana Nayak**  
 MIS & BI Manager | Power BI Developer  
-https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+https://www.linkedin.com/archana-nayak-bimanager
 
 ---
 
